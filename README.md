@@ -2,6 +2,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ![image](https://github.com/muskan2622/team-sketch-board/assets/84541807/1ff5b22d-ac29-4244-baff-b6dca9081517)
 
+Watch the following video to learn how to use our project:
+
+[Click here to watch the video](https://github.com/muskan2622/team-sketch-board/blob/main/Screencast%20from%2030-03-24%2001%3A02%3A11%20AM%20IST.webm)
+
 
 
 ## Getting Started
