@@ -4,11 +4,15 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 Watch the following video to learn how to use our project:
 
-[Click here to watch the video](https://github.com/muskan2622/team-sketch-board/blob/main/Screencast%20from%2030-03-24%2001%3A02%3A11%20AM%20IST.webm)
+[Screencast from 30-03-24 01:02:11 AM IST.webm](https://github.com/muskan2622/team-sketch-board/assets/84541807/da1b17e5-8a29-453a-bd41-cbfccfb63ef7)
+
+
+
 
 
 
 ## Getting Started
+
 Features:
 
 - 🛠️ Whiteboard from scratch
